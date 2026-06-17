@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+images/
+capture.jpg
+clean_sketch.png
+
+.env
+
+ComfyUI/
+
+objects.txt
+scene.txt
+prompt.txt
+
+.vscode/
